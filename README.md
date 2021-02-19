@@ -3,7 +3,6 @@
 [v0.1](https://github.com/TheFlashBold/valheim-firstperson/releases/tag/0.1)
 ```
 + m_dataPerSec = 614400
-+ m_sendFPS = 30f;
 + Firstperson NUMPAD ENTER
 ```
 
