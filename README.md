@@ -2,10 +2,11 @@
 It's a simple mod to make the valheim live much better.
 
 # Release
-[v0.2](https://github.com/TheFlashBold/valheim-firstperson/releases/tag/0.2)
+[v0.3](https://github.com/TheFlashBold/valheim-firstperson/releases/tag/0.3)
 ```
++ fov zooming with V
 + m_dataPerSec = 245760
-+ Firstperson NUMPAD ENTER
++ firstperson toggle with NUMPAD_ENTER
 ```
 
 # Code
