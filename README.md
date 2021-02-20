@@ -2,7 +2,7 @@
 It's a simple mod to make the valheim live much better.
 
 # Release
-[v0.1](https://github.com/TheFlashBold/valheim-firstperson/releases/tag/0.1)
+[v0.2](https://github.com/TheFlashBold/valheim-firstperson/releases/tag/0.2)
 ```
 + m_dataPerSec = 245760
 + Firstperson NUMPAD ENTER
