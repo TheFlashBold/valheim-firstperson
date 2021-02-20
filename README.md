@@ -1,4 +1,6 @@
 # Valheim Firstperson
+It's a simple mod to make the valheim live much better.
+
 # Release
 [v0.1](https://github.com/TheFlashBold/valheim-firstperson/releases/tag/0.1)
 ```
