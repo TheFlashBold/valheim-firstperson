@@ -14,10 +14,6 @@ Use a disassembler like https://github.com/dnSpy/dnSpy.
 
 vahleim_assembly.dll > GameCamera
 ```C#
-using System;
-using System.IO;
-using UnityEngine;
-
 public partial class GameCamera : MonoBehaviour
 {
 	// Token: 0x06000B67 RID: 2919
@@ -113,7 +109,6 @@ public partial class GameCamera : MonoBehaviour
 
 vahleim_assembly.dll > ZDOMan
 ```C#
-// Token: 0x020000CC RID: 204
 public partial class ZDOMan
 {
 	// Token: 0x04000A17 RID: 2583
